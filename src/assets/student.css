@@ -1,0 +1,21 @@
+#container_home{
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    border: black solid 1px;
+    
+    
+   
+}
+
+#home{
+  height: 100vh;
+  width:100vw!important;
+  border: black solid 1px;
+
+
+}
+#buscar{
+  border-radius: 0.5rem;
+  padding: 1.5px;
+}
